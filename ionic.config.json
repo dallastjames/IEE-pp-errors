@@ -1,0 +1,7 @@
+{
+  "name": "ng-enterprise-statusbar",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
